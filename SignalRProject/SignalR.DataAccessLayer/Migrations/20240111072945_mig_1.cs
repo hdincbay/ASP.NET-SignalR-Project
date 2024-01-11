@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace SignalR.DataAccessLayer.Migrations
 {
-    public partial class init : Migration
+    public partial class mig_1 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -191,7 +191,7 @@ namespace SignalR.DataAccessLayer.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "OrderDetais",
+                name: "OrderDetails",
                 columns: table => new
                 {
                     OrderDetailId = table.Column<int>(type: "int", nullable: false)
@@ -204,15 +204,15 @@ namespace SignalR.DataAccessLayer.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_OrderDetais", x => x.OrderDetailId);
+                    table.PrimaryKey("PK_OrderDetails", x => x.OrderDetailId);
                     table.ForeignKey(
-                        name: "FK_OrderDetais_Orders_OrderId",
+                        name: "FK_OrderDetails_Orders_OrderId",
                         column: x => x.OrderId,
                         principalTable: "Orders",
                         principalColumn: "OrderId",
                         onDelete: ReferentialAction.Cascade);
                     table.ForeignKey(
-                        name: "FK_OrderDetais_Products_ProductId",
+                        name: "FK_OrderDetails_Products_ProductId",
                         column: x => x.ProductId,
                         principalTable: "Products",
                         principalColumn: "ProductId",
@@ -220,13 +220,13 @@ namespace SignalR.DataAccessLayer.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_OrderDetais_OrderId",
-                table: "OrderDetais",
+                name: "IX_OrderDetails_OrderId",
+                table: "OrderDetails",
                 column: "OrderId");
 
             migrationBuilder.CreateIndex(
-                name: "IX_OrderDetais_ProductId",
-                table: "OrderDetais",
+                name: "IX_OrderDetails_ProductId",
+                table: "OrderDetails",
                 column: "ProductId");
 
             migrationBuilder.CreateIndex(
@@ -256,7 +256,7 @@ namespace SignalR.DataAccessLayer.Migrations
                 name: "MoneyCases");
 
             migrationBuilder.DropTable(
-                name: "OrderDetais");
+                name: "OrderDetails");
 
             migrationBuilder.DropTable(
                 name: "SocialMedias");

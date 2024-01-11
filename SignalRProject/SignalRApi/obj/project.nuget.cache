@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sidw0weFCJB3xWYqYSALMQjz1TNo3oeUqCy/O3g7pfk6R6tVJabW3JlxbI7iLnvroCt2TlQAI+8eMP7QGBltcQ==",
+  "dgSpecHash": "vLJQljzmQM8n1brD9ZbPnj1u05LDuBoKPUef425CSsbM99RtRFS4RcveHODWB0TJK9d5U2FRZGTaycEj8Y0LIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+  "projectFilePath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hdinc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\hdinc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -9549,11 +9549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
+      "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
       "projectName": "SignalRWebUI",
-      "projectPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
+      "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
       "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalRWebUI\\obj\\",
+      "outputPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRWebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hdinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9606,7 +9606,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

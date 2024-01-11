@@ -57,5 +57,10 @@ namespace SignalR.BusinessLayer.Concrete
 		{
 			_orderDal.Update(entity);
 		}
-	}
+
+        public decimal TTodayOrderPrice()
+        {
+            return _orderDal.TodayOrderPrice();
+        }
+    }
 }

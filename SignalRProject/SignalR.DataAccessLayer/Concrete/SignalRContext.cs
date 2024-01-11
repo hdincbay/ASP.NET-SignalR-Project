@@ -12,7 +12,7 @@ namespace SignalR.DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server = HSYN\\SQLEXPRESS; Initial Catalog = SignalRDb; Integrated Security = true");
+            optionsBuilder.UseSqlServer("Server = DESKTOP-NNLOMKQ; Initial Catalog = SignalRDb; Integrated Security = true");
         }
         public DbSet<About> Abouts { get; set; }
         public DbSet<Booking> Bookings { get; set; }
@@ -26,5 +26,6 @@ namespace SignalR.DataAccessLayer.Concrete
         public DbSet<Order> Orders { get; set; }
         public DbSet<OrderDetail> OrderDetails { get; set; }
         public DbSet<MoneyCase> MoneyCases { get; set; }
+        public DbSet<MenuTable> MenuTables { get; set; }
     }
 }

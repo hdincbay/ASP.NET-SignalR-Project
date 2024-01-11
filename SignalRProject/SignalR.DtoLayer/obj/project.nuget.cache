@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HgrdsrrL+9s0ikjUrmUJcRdWNAhUaSldkplHXhLZHX3Kl7wquCO6qoXxxqKGJCvOEAN+PQPszCj2sQtE+8t39Q==",
+  "dgSpecHash": "EP/6GIH4mMPsthte8IDLJ/KfhviWy6slQl//kqydnaT1w92alSFbprxtrxj/4JJG1WGEupF2nlezuLp6ih5ihg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj",
+  "projectFilePath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

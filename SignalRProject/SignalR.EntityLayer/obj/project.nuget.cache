@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IL6qPUJBB+MIMTUarQh6208z0qm+ORTf8CVoVd00zHw3+4V4pYr04eFqvhRQiRVXLsQohurvMIw4AthjFdSPeQ==",
+  "dgSpecHash": "nwTchEp7ai8yj4bY5DHDbRYKTa1+waOyQM6jAVtiw1DsTo+NiALr3VhyIbtSKYslj1jJCn6eh27ta+2QSpFztg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {}
+    "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {
+    "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
         "projectName": "SignalR.DataAccessLayer",
-        "projectPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hdinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj"
+              "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj"
               }
             }
           }
@@ -81,18 +81,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
+    "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "projectName": "SignalR.EntityLayer",
-        "projectPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hdinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

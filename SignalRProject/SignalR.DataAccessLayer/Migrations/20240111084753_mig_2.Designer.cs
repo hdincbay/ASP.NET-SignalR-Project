@@ -12,8 +12,8 @@ using SignalR.DataAccessLayer.Concrete;
 namespace SignalR.DataAccessLayer.Migrations
 {
     [DbContext(typeof(SignalRContext))]
-    [Migration("20231127125514_init")]
-    partial class init
+    [Migration("20240111084753_mig_2")]
+    partial class mig_2
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -205,6 +205,9 @@ namespace SignalR.DataAccessLayer.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<DateTime>("OrderDate")
+                        .HasColumnType("Date");
+
                     b.Property<string>("TableNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -246,7 +249,7 @@ namespace SignalR.DataAccessLayer.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("OrderDetais");
+                    b.ToTable("OrderDetails");
                 });
 
             modelBuilder.Entity("SignalR.EntityLayer.Entities.Product", b =>

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {}
+    "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
+    "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "projectName": "SignalR.EntityLayer",
-        "projectPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\SignalR.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalR.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hdinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

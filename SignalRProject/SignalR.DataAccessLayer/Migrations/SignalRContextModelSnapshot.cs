@@ -172,6 +172,25 @@ namespace SignalR.DataAccessLayer.Migrations
                     b.ToTable("Features");
                 });
 
+            modelBuilder.Entity("SignalR.EntityLayer.Entities.MenuTable", b =>
+                {
+                    b.Property<int>("MenuTableId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("MenuTableId"), 1L, 1);
+
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("Status")
+                        .HasColumnType("bit");
+
+                    b.HasKey("MenuTableId");
+
+                    b.ToTable("MenuTables");
+                });
+
             modelBuilder.Entity("SignalR.EntityLayer.Entities.MoneyCase", b =>
                 {
                     b.Property<int>("MoneyCaseId")
@@ -196,12 +215,12 @@ namespace SignalR.DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("OrderId"), 1L, 1);
 
-                    b.Property<DateTime>("Date")
-                        .HasColumnType("datetime2");
-
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("OrderDate")
+                        .HasColumnType("Date");
 
                     b.Property<string>("TableNumber")
                         .IsRequired()
@@ -244,7 +263,7 @@ namespace SignalR.DataAccessLayer.Migrations
 
                     b.HasIndex("ProductId");
 
-                    b.ToTable("OrderDetais");
+                    b.ToTable("OrderDetails");
                 });
 
             modelBuilder.Entity("SignalR.EntityLayer.Entities.Product", b =>

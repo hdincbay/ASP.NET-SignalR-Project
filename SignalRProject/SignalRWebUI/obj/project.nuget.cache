@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X22HCiQiZDgjnyA8M6QJ0RQMIornzHtyXIs8yky2mv58tbsrssHLLAJ8yGXhAWI9SF567NgkRm0hj2tgiS9iqA==",
+  "dgSpecHash": "ZDO77i0ERJdGQCfiKTS8nVim5/AONl+ZM8ZFDlEBVed2xisPKa4Z968AgY7ehTyzE4kIl/dtHNth120ser+DrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hdinc\\Desktop\\EnSonProjeler\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
+  "projectFilePath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRWebUI\\SignalRWebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hdinc\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\hdinc\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
