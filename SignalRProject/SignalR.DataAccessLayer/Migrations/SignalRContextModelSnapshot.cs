@@ -102,10 +102,22 @@ namespace SignalR.DataAccessLayer.Migrations
                     b.Property<string>("FooterDescription")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("FooterTitle")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Location")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Mail")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("OpenDays")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("OpenDaysDescription")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("OpenHours")
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Phone")
@@ -297,6 +309,37 @@ namespace SignalR.DataAccessLayer.Migrations
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("SignalR.EntityLayer.Entities.Slider", b =>
+                {
+                    b.Property<int>("SliderId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("SliderId"), 1L, 1);
+
+                    b.Property<string>("Description1")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description2")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Description3")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title1")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title2")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Title3")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("SliderId");
+
+                    b.ToTable("Sliders");
                 });
 
             modelBuilder.Entity("SignalR.EntityLayer.Entities.SocialMedia", b =>
