@@ -433,6 +433,10 @@
       "PackagePath": "staticwebassets\\feane-1.0.0\\images\\pexels-lisa-fotios-776538.jpg"
     },
     {
+      "Id": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRWebUI\\wwwroot\\feane-1.0.0\\images\\pexels-pixabay-260922.jpg",
+      "PackagePath": "staticwebassets\\feane-1.0.0\\images\\pexels-pixabay-260922.jpg"
+    },
+    {
       "Id": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRWebUI\\wwwroot\\feane-1.0.0\\index.html",
       "PackagePath": "staticwebassets\\feane-1.0.0\\index.html"
     },
