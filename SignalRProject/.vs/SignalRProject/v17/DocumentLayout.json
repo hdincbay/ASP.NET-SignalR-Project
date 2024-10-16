@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrwebui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrwebui\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\product\\updateproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrwebui\\controllers\\progressbarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\controllers\\progressbarscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{383E3193-36EA-49C6-991A-4F59361553EB}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalr.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383E3193-36EA-49C6-991A-4F59361553EB}|SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj|solutionrelative:signalr.businesslayer\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2150B2A-EA67-4612-B81A-84FE849B6CF7}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2150B2A-EA67-4612-B81A-84FE849B6CF7}|SignalR.DataAccessLayer\\SignalR.DataAccessLayer.csproj|solutionrelative:signalr.dataaccesslayer\\concrete\\signalrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrwebui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrwebui\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA4B5E92-C995-4FE0-9C1D-98B39F5955C1}|SignalRWebUI\\SignalRWebUI.csproj|solutionrelative:signalrwebui\\dtos\\productdtos\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|c:\\users\\hdinc\\onedrive\\github\\asp.net-signalr-project\\signalrproject\\signalrapi\\mapping\\aboutmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CC4FD3-1482-4A58-BB10-E6077963BA36}|SignalRApi\\SignalRApi.csproj|solutionrelative:signalrapi\\mapping\\aboutmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Product\\UpdateProduct.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Views\\Product\\UpdateProduct.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Product\\UpdateProduct.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T17:00:48.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProgressBarsController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\ProgressBarsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:50:57.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SignalRApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:47:48.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "SignalR.BusinessLayer\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:47:27.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "RelativeToolTip": "SignalRWebUI\\Dtos\\ProductDtos\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:28:43.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "SignalRWebUI\\Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T09:18:21.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SignalRWebUI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRWebUI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SignalRWebUI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAewFMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:14:27.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignalRContext.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "RelativeDocumentMoniker": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "RelativeToolTip": "SignalR.DataAccessLayer\\Concrete\\SignalRContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:07:18.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\appsettings.json",
+              "RelativeToolTip": "SignalRApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T09:06:20.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutMapping.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\Mapping\\AboutMapping.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Mapping\\AboutMapping.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\Mapping\\AboutMapping.cs",
+              "RelativeToolTip": "SignalRApi\\Mapping\\AboutMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:05:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeDocumentMoniker": "SignalRApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\Program.cs",
+              "RelativeToolTip": "SignalRApi\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T09:05:14.407Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

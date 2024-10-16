@@ -11210,11 +11210,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+      "projectUniqueName": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
       "projectName": "SignalRApi",
-      "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
+      "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\SignalRApi.csproj",
       "packagesPath": "C:\\Users\\hdinc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalRApi\\obj\\",
+      "outputPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalRApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hdinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11225,17 +11225,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj": {
-              "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj"
+            "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.BusinessLayer\\SignalR.BusinessLayer.csproj"
             },
-            "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj": {
-              "projectPath": "C:\\Users\\hdinc\\source\\repos\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj"
+            "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\hdinc\\OneDrive\\GitHub\\ASP.NET-SignalR-Project\\SignalRProject\\SignalR.DtoLayer\\SignalR.DtoLayer.csproj"
             }
           }
         }
@@ -11244,6 +11245,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11292,7 +11298,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

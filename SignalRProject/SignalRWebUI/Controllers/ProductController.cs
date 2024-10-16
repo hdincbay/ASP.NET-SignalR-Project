@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Newtonsoft.Json;
 using SignalRWebUI.Dtos.CategoryDtos;
 using SignalRWebUI.Dtos.ProductDtos;
+using System.Reflection;
 using System.Text;
 
 namespace SignalRWebUI.Controllers
@@ -45,14 +46,21 @@ namespace SignalRWebUI.Controllers
 			return View();
 		}
 		[HttpPost]
-		public async Task<IActionResult> CreateProduct(CreateProductDto createProductDto)
+		[ValidateAntiForgeryToken]
+		public async Task<IActionResult> CreateProduct(CreateProductDto createProductDto, IFormFile file)
 		{
 			createProductDto.ProductStatus = true;
 			var client = _httpClientFactory.CreateClient();
+			string path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "images", file.FileName);
+			using (var stream = new FileStream(path, FileMode.Create))
+			{
+				await file.CopyToAsync(stream);
+			}
+			createProductDto.ImageUrl = String.Concat("/images/", file.FileName);
 			var jsonData = JsonConvert.SerializeObject(createProductDto);
 			StringContent stringContent = new StringContent(jsonData, Encoding.UTF8, "application/json");
 			var responseMessage = await client.PostAsync("https://localhost:7209/api/Product", stringContent);
-			if(responseMessage.IsSuccessStatusCode)
+			if (responseMessage.IsSuccessStatusCode)
 			{
 				return RedirectToAction("Index");
 			}
